@@ -1,0 +1,19 @@
+---NodeJs e Express--- 15/09
+
+1- Criar um projeto com o npm init 
+2- Importar o express
+3- Rotas - podem ter o mesmo nome e verbos diferentes, ultilizando o router
+4-Estudar sobre middleware - res.status(404).send(html)
+5- Usando filtros nos middleware (admin e shop)
+
+6- MDC- Model-View-Controller
+
+
+Criar 4 rotas 2 get e 2 post 
+Post
+/add-product
+/delete-product
+
+Get
+/products  
+/brands
